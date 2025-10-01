@@ -37,8 +37,7 @@ aws configure
 └── backup.sh          # Main backup script
 
 ⚙️ Usage :
-git clone https://github.com/your-username/file-backup-s3.git
-cd file-backup-s3
+git clone  https://github.com/mohamed9087-om/Backup-s3-bash_script
 Make the script executable :
 chmod +x backup.sh
 Run the script :
